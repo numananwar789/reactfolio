@@ -49,7 +49,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "http://digitalclinic.infinityfreeapp.com/public/",
 		},
 
 		{
@@ -58,7 +58,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
 			linkText: "View Project",
-			link: "https://github.com/numananwar789/itsreal.com.au",
+			link: "https://itsreal.com.au/",
 		},
 
 		{
@@ -67,7 +67,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
 			linkText: "View Project",
-			link: "https://github.com/numananwar789/e-bazarr.com",
+			link: "https://e-bazarr.com/",
 		},
 
 		{
@@ -76,7 +76,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
 			linkText: "View Project",
-			link: "https://github.com/numananwar789/realitnytrh.eu",
+			link: "https://realitnytrh.eu/",
 		},
 
 		{
@@ -85,7 +85,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.worldvectorlogo.com/logos/laravel-2.svg",
 			linkText: "View Project",
-			link: "https://github.com/numananwar789/flick",
+			link: "https://fliick.lt/",
 		},
 	],
 };
