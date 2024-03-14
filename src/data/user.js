@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by Numan Anwar",
+		title: "Numan Anwar",
 		name: "Numan Anwar",
 		email: "numananwar789@gmail.com",
 		logo: "../logo.png",

@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2024 Numan Anwar. All Rights Reserved.
+						© 2024 <Link to="/"> Numan Anwar </Link>. All Rights Reserved.
 					</div>
 				</div>
 			</div>
